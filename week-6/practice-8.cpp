@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// unions are similar to structures but they share the same memory location
 union mix_t
 {
     int a;
